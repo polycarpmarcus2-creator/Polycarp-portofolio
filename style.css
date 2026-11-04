@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+
 *{
     margin: 0;
     padding: 0;
@@ -24,13 +27,11 @@ body{
 }
 
 
-
-
 .logo{
-    font-size: 30px;
-    font-weight: bold;
-    color:#0c5224;
-
+  font-family: "Parisienne", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
 
 }
 
@@ -122,10 +123,18 @@ body{
 }
 
 
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Grenze+Gotisch:wght@100..900&display=swap');
+
 .main-title {
     font-size: 55px;
     color: #222222;
     margin-bottom: 15px;
+    font-family: "Abel", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+
+
 }
 
 
