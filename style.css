@@ -426,6 +426,28 @@ body{
     background-color: #146c43;
 }
 
+
+.whatsapp-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px; /* Adds space between the icon and text */
+    
+    background-color: #25D366; /* Official WhatsApp Green (or use your theme's green) */
+    color: #ffffff;
+    
+    padding: 12px 24px;
+    border-radius: 4px; /* Adjust to match your other buttons' curves */
+    text-decoration: none;
+    font-weight: 500;
+    
+    transition: background-color 0.2s ease-in-out;
+}
+
+.whatsapp-btn:hover {
+    background-color: #128C7E; /* Slightly darker green on hover */
+}
+
 /* Footer */
 .footer {
     background-color: #ffffff;
