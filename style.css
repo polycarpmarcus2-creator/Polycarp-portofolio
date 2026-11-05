@@ -512,3 +512,27 @@ body{
     align-items: center;
     margin-top: 20px;
 }
+
+
+
+/* Frontend Colors */
+.fa-html5 { color: #E34F26; }        /* Orange */
+.fa-css3-alt { color: #1572B6; }     /* Blue */
+.fa-js { color: #F7DF1E; }           /* Yellow (Note: text underneath should be dark for readability) */
+.fa-react { color: #61DAFB; }        /* Cyan/Bright Blue */
+.fa-bootstrap { color: #7952B3; }    /* Purple */
+
+/* Backend Colors */
+.fa-node-js { color: #339933; }      /* Green */
+.fa-server { color: #4B5563; }       /* Neutral Gray for Express */
+.fa-network-wired { color: #007ACC; }/* Tech Blue for REST APIs */
+
+/* Database Colors */
+.fa-database { color: #336791; }     /* Steel Blue for PostgreSQL/SQL */
+.fa-table { color: #336791; }
+
+/* Development Tools Colors */
+.fa-git-alt { color: #F05032; }      /* Orange-Red */
+.fa-github { color: #181717; }       /* Dark Gray/Black */
+.fa-paper-plane { color: #FF6C37; }  /* Postman Orange */
+.fa-code { color: #007ACC; }         /* VS Code Blue */
